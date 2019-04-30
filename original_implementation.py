@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 23 23:52:52 2019
-
-@author: K.S.LOHITH
-"""
-
 from copy import deepcopy
 import numpy as np
 import pandas as pd
