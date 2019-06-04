@@ -1,0 +1,1576 @@
+colors	Bannagalu
+black	Kappu
+white	bili
+gray	thizi
+blue	neeli
+green	hasiru
+brown	kandhu
+purple	nerale
+red	kempu
+orange	kesari
+yellow	harishina
+Days	dinagalu
+Monday	somavaara
+Tuesday	mangala vaara
+can I come?	naanu barabahude
+is he sleeping?	avanu niddhe maduthaiddhaneye?
+do you know me?	ninage naanu gothha
+do you have my book?	ninna bali nanna pustaka idheya
+how big is it?	adhu eshtu dhoddadhu
+can I help you?	naanu nimage sahaya madabahude
+can you help me?	nanage sahaya maduthhira
+do you speak English?	neevu inglish mathanadutthira
+how far is this?	idhu esthu doora ide
+what time is it?	eega esthu ghante
+how much is this?	idhu esthu doora ide
+what is your name?	ninna hesaru yenu
+where do you live?	neevu elli vaasisutheera
+I can accept that	naanu adhannu thegedhu kollaballe
+she added it	avalu adhakke haakidhalu
+Wednesday	bhudha vaara
+Thursday	guru vaara
+Friday	shukkra vaara
+Saturday	shani vaara
+Sunday	bhanu vaara
+yesterday	niinne
+today	indhu
+tomorrow	naale
+here	illi
+there	alli
+quickly	thakshana
+slowly	nidhanaavagi
+always	yavaagalu
+sometimes	yavaagaladharu
+never	illave illa
+one	ondhu
+two	yeradu
+three	mooru
+four	naalku
+five	aidhu
+six	aaru
+seven	yelu
+eight	entu
+nine	ombathu
+ten	hatthu
+head	thale
+face	mukha
+hair	koodalu
+eye	kannu
+ear	kivi
+nose	moogu
+mouth	baayi
+tooth	hallu
+arm	bhujha
+hand	kaiy
+heart	hrudaya
+stomach	hotte
+leg	kaalu
+foot	paadha
+Food	oota
+bread	breadu
+cheese	cheesu
+meat	mamsa
+chicken	koli mamsa
+fish	meenu
+sandwich	sandwhichu
+salad	saladu
+salt	uppu
+candy	sweetu
+fruit	hannu
+apple	sebu
+banana	bale hannu
+oranges	kitthale
+grapes	dhrakshi
+strawberries	strawberry
+vegetables	tharakarigalu
+carrot	karrattu
+onions	eerulli
+potatoes	aloogadde
+tomatoes	tomatoes
+breakfast	uphahara
+lunch	oota
+dinner	rathri oota
+cat	bekkku
+dog	naayi
+mouse	ili
+cow	hasu
+horse	kudure
+alligator	mosale
+rabbit	mola
+bird	pakshi
+bear	karadi
+eagle	haddhu
+elephant	aane
+giraffe	giraffe
+lion	simha
+monkey	kothi
+snake	haavu
+tiger	huli
+pharmacy	oushadhalaya
+restaurant	hotelu
+house	mane
+room	roomu
+bathroom	bacchaalu mane
+toilet	shauchalaya
+bedroom	kone
+kitchen	adige mane
+floor	nela
+roof	chavani
+ceiling	chavani
+wall	gode
+window	kitaki
+objects	vasthugalu
+shampoo	shampoo
+soap	saabunu
+towel	tholina vasthra
+toothbrush	dhantha shubraka
+toothpaste	dhantha shubraka
+bed	mancha
+refrigerator	fridge
+table	meju
+cup	kappu
+fork	forku
+knife	katthi
+spoon	chamacha
+plate	thatte
+furniture	mejugalu
+chair	kurchi
+desk	meju
+telephone	dooravani
+newspaper	dina pathrike
+pen	pennu
+pencil	pencillu
+paper	kagadha
+scissors	katthari
+picture	chitra
+clothes	battegalu
+coat	kotu
+hat	topi
+jacket	jackettu
+pants	pantu
+shoes	bootu
+umbrella	chatri
+socks	kaicheela
+after	aamele
+before	aagale
+below	kelage
+on top of	adhara mele
+for	adhakkagi
+from	adharindha
+inside	olagindha
+outside	horagade
+under	kelage
+until	alliyavaregu
+with	jothe
+without	illadhe
+near	hatthira
+far from	adhrindha dhoora
+behind	hindhe
+in front of	athara mundhe
+because of	adhakkagi
+about	bagge
+this	idhu
+that	adhu
+how?	hege?
+what?	yenu?
+who?	yaaru?
+why?	yaake?
+where?	yelli?
+can I help you?	naanu nimage sahaya madabahude
+can you help me?	nanage sahaya maduthhira
+do you speak English?	neevu inglish mathanadutthira
+what time is it?	eega esthu ghante
+how much is this?	idhu esthu doora ide
+what is your name?	ninna hesaru yenu
+beach	beechu
+island	dweepa
+desert	marubhoomi
+mountain	betta
+forest	kaadu
+tree	maraa
+flowers	hoovugalu
+garden	udhyana
+river	nadhi
+lake	sarovara
+sea	samudhra
+sky	aakasha
+stars	nakshathragalu
+moon	chandra
+earth	bhoomi
+weather	havaamaana
+windy	gaali
+cloudy	modaa kavidha
+raining	malee barthaidhe
+cold	thaange
+snowing	himapaatha
+sunny	suryakavidha
+hot	bisi
+autumn	sharath
+winter	chaligala
+spring	shishira
+summer	besige
+people	janaru
+husband	ganda
+wife	hendathi
+father	thandhe
+mother	amma
+son	maga
+daughter	magalu
+brother	thamma/anna(younger/elder)
+grandfather	thaatha
+grandmother	ajji
+one	ondhu,
+some	kelavu
+few	halavu
+the book	pusthaka
+the books	pusthakagalu
+a book	ondhu pusthaka
+one book	ondhu pusthaka
+some books	kela pusthakagalu
+few books	hala pusthakagalu
+English Vocabulary	Kannada Vocabulary
+Food	oota
+almonds	badhami
+bread	breadu
+breakfast	uphahara
+butter	beene
+candy	sweetu
+cheese	cheesu
+chicken	koli mamsa
+cumin	jeerige
+dessert	sihi
+dinner	rathri oota
+fish	meenu
+fruit	hannu
+ice cream	ice creamu
+lamb	meke mamsa
+lemon	nimbe hannu
+lunch	oota
+meal	oota
+meat	mamsa
+oven	ovennu
+pepper	menasu
+plants	gidagalu
+pork	handhi mamsa
+salad	saladu
+salt	uppu
+sandwich	sandwhichu
+sausage	sausaju
+soup	soopu
+sugar	sakkare
+supper	rathri oota
+turkey	turkey koli
+apple	sebu
+banana	bale hannu
+oranges	kitthale
+peaches	peachu
+peanut	kadale kai
+pears	perala hannu
+pineapple	pine appleu
+grapes	dhrakshi
+strawberries	strawberry
+vegetables	tharakarigalu
+carrot	karrattu
+corn	jola
+cucumber	southekai
+garlic	bellulli
+lettuce	elekosu
+olives	olive
+onions	eerulli
+peppers	menasu
+potatoes	aloogadde
+pumpkin	kumbalakai
+beans	beansu
+tomatoes	tomatoes
+my car	nanna kaaru
+green car	hasiru kaaru
+three cars	mooru kaaru
+car garage	gyareju
+outside the car	karina horage
+arm	bhujha
+back	bennu
+cheeks	kenne
+chest	edhe
+chin	galla
+ear	kivi
+elbow	kaiy
+eye	kannu
+face	mukha
+finger	beralu
+fingers	beralugalu
+foot	paadha
+hair	koodalu
+hand	kaiy
+head	thale
+heart	hrudaya
+knee	mandi
+leg	kaalu
+lip	thuti
+mouth	baayi
+neck	katthhu
+nose	moogu
+shoulder	bhuja
+stomach	hotte
+teeth	danthagalu
+thigh	thodhe
+throat	gantalu
+thumb	hebberalu
+toe	kaalu
+tongue	naalige
+tooth	hallu
+Languages	bhashegalu
+Arabic	Arabic
+Chinese	Chinese
+English	angla bhashe
+French	French
+German	German
+Greek	Greek
+Hebrew	Hebrew
+Hindi	Hindi
+Italian	Italian
+Japanese	Japanese
+Korean	Korean
+Latin	Latin
+Russian	Russian
+Spanish	Spanish
+Urdu	Urdu
+Days	dinagalu
+Monday	somavaara
+Tuesday	mangala vaara
+Wednesday	bhudha vaara
+Thursday	guru vaara
+Friday	shukkra vaara
+Saturday	shani vaara
+Sunday	bhanu vaara
+time	samaya
+hour	ghante
+minute	nimisha
+second	secondu
+different objects	vividha vasthugalu
+art	kale
+bank	banku
+beach	beechu
+book	pusthaka
+by bicycle	cyclinindha
+by bus	bassinindha
+by car	carinindha
+by train	railinindha
+cafe	koffy
+country	desha
+desert	marubhoomi
+dictionary	padhabandha
+earth	bhoomi
+flowers	hoovugalu
+football	chendu
+forest	kaadu
+game	aata
+garden	udhyana
+geography	bhoogola
+history	ithihaasa
+house	mane
+island	dweepa
+lake	sarovara
+library	pusthakalaya
+math	ganittha
+moon	chandra
+mountain	betta
+movies	cinema
+music	sangeetha
+ocean	saaagara
+office	kacheri
+on foot	nadedhu
+player	aatagara
+river	nadhi
+science	vignyana
+sea	samudhra
+sky	aakasha
+soccer	chendata
+stars	nakshathragalu
+supermarket	maarukatte
+swimming pool	eejukola
+theater	theatarru
+tree	maraa
+weather	havaamaana
+bad weather	ketta havaamaana
+cloudy	modaa kavidha
+cold	thaange
+cool	thampu
+foggy	manju
+hot	bisi
+nice weather	olle havaamaana
+pouring	surithaidhe
+rain	malee
+raining	malee barthaidhe
+snow	hima
+snowing	himapaatha
+ice	manjugadde
+sunny	suryakavidha
+windy	gaali
+spring	shishira
+summer	besige
+autumn	sharath
+winter	chaligala
+people	janaru
+aunt	at the
+baby	magu
+brother	thamma/anna(younger/elder)
+cousin	thamma
+daughter	magalu
+dentist	dantha vaidhya
+doctor	vaidhya
+father	thandhe
+grandfather	thaatha
+grandmother	ajji
+husband	ganda
+mother	amma
+nephew	thammana maga/annana maga
+niece	thammana magalu/annana magalu
+nurse	daadi
+policeman	policu
+postman	post manushya
+professor	professaru
+son	maga
+teacher	gurugalu
+uncle	maava/maama
+wife	hendathi
+Plural	bahu vachana
+my book	nanna pustaka
+my books	nana pustakagalu
+our daughter	namma magalu
+our daughters	namma hennu makkalu
+I'm cold	nanage sheetha
+we're cold	namage sheetha
+his chickens	avana koligalu
+their chicken	avara koligalu
+alligator	mosale
+alligators	mosalegalu
+bear	karadi
+bears	karadigalu
+bird	pakshi
+birds	pakshigalu
+bull	gooli
+bulls	gooligalu
+cat	bekkku
+cats	bekkugalu
+cow	hasu
+cows	hasugalu
+deer	jinke
+many deer	hala jinke
+dog	naayi
+dogs	naayigalu
+donkey	katthe
+donkeys	katthegalu
+eagle	haddhu
+eagles	haddhugalu
+elephant	aane
+elephants	aanegalu
+giraffe	giraffe
+giraffes	giraffegalu
+goat	aadu
+goats	aadugalu
+horse	kudure
+horses	kuduregalu
+lion	simha
+lions	simhagalu
+monkey	kothi
+monkeys	kothigalu
+mouse	ili
+mice	iligalu
+rabbit	mola
+rabbits	molagalu
+snake	haavu
+snakes	haavugalu
+tiger	huli
+tigers	huligalu
+wolf	thola
+wolves	tholagalu
+Phrases	vakyagalu
+hello	namaskara
+bye	vandhane
+congratulations	shubasuchane
+sorry	kshmisi
+really	nijavagalu
+we admit it	naavu adhannu oppikondevu
+they advised him	avaru avanige advise maadidharu
+I can agree with that	naanu adhakke oppaballe
+she allows it	avalu adhaannu opputhaale
+we announce it	naavu adhannu vicharisutheeve
+I can apologize	naanu kshamekelaballe
+she appears today	avalu eevatthu kaanisidhalu
+they arranged that	avaru adhannu anusaravaghisidharu
+I can arrive tomorrow	naanu naale baraballe
+she can ask him	avalu adhannu kelabhaudhu
+she attaches that	avalu adhannu antisidhalu
+we attack them	naavu adhannu dhaaali maadona
+they avoid her	avaru avalannu nirakarisidharu
+I can bake it	naanu adhannu beyisaballe
+she is like him	avalu avana thara
+we beat it	naavu adhannu hathhikka balleveu
+they became happy	avaru santhosha pattaru
+I can begin that	naanu adharindha aarambisaballe
+we borrowed money	naavu hanavannu thegedukondhevu
+they breathe air	avaru gaali sevisuthhare
+I can bring it	naanu adhannu tharaballe
+I can build that	naanu adhannu kattaballe
+she buys food	avalu ootavannu kondhalu
+we calculate it	naavu adhanu koodutheve
+they carry it	avaru adhanu tharuthhare
+they don't cheat	avaru mosa maaduvudilla
+she chooses him	avalu avannannu aarisidhalu
+we close it	naavu adhannu muchhuidevu
+he comes here	avanu illi baruthhane
+I can compare that	naannu adhannu aleyaballe
+she competes with me	avalu naana jhothege paiphotisutthale
+we complain about it	naavu adhara bagge complain maadidhevu
+they continued reading	avaru adhannu odhuvudhannu mundhuvarisidharu
+he cried about that	avanu adhara baggae atthanu
+I can decide now	naanu adhannu nirdharisaballe
+she described it to me	avalu adhannu nanage vivarisidhalu
+we disagree about it	naavu adhannu oppikondevu
+they disappeared quickly	avaru thakshana mayavagibittaru
+I discovered that	naanu adhannu kandhu hididhenu
+she dislikes that	avalu adhannu ishta padhuvudilla
+we do it	naavu idhannu maaduvevu
+they dream about it	avaru adhara bagge aalochisidharu
+I earned	naanu adhannu samphadhisidhe
+he eats a lot	avanu thumbha thinnuthhane
+we enjoyed that	naavu adhannu thrupthi pattevu
+they entered here	naavu illi thalupidhevu
+he escaped that	avanu adharindha thappisikondha
+I can explain that	naanu adhannu vivarisaballe
+she feels that too	avalu adhannu saha neneyuthhale
+we fled from there	naavu allindha odidhevu
+they will fly tomorrow	avaur naale haaruthhare
+I can follow you	naanu ninnnannu himbhalisidhe
+she forgot me	avalu nannanna marethalu
+we forgive him	naavu avannannu kshamisuthheve
+I can give her that	naanu avalige adhannu kotte
+she goes there	avalu allighe hoguthiddale
+we greeted them	naavu avarrige vandhisidhevhu
+I hate that	naanu adhannu ishtha paduvudhilla
+I can hear it	naanu adhannu kelabhalle
+she imagine that	avalu adhannu kalphane madhikondhalu
+we invited them	naavu avannannu karedhevu
+I know him	nannage avanu gotthu
+she learned it	avalu adhannu kalithalu
+we leave now	naavu eega bidutheve
+they lied about him	avaru avana bagge sullu helidharu
+I can listen to that	naanu adhakke kellaballe
+she lost that	avalu adhannu kaledhukondalu
+we made it yesterday	naavu idhaanu ninne madhidhevu
+they met him	avaru avannannu nodhidharu
+I misspell that	naanu adhannu thappagi helidhe
+I always pray	naanu yavaagalu prarhthane maaduthhene
+she prefers that	avalu adhannu ishata padhuttale
+we protected them	naavu avarannu rakshisutteve
+they will punish her	avaru avalige shikshe kodutthaare
+I can put it there	naanu adhannu alli idhaballe
+she will read it	avalu adhannu odhuttale
+we received that	naavu adhannu punaravarthisidharu
+they refuse to talk	avaur mathanaaduvudhakke niraakharisidharu
+I remember that	naanage adhu gnapakha idhe
+she repeats that	avalu adhannu mathhe helidhalu
+we see it	naanvu adhannu nodidhaevu
+they sell it	avaru adhannu salahisidharu
+I sent that yesterday	naanu adhannu ninne kalisidhe
+he shaved his beard	avanu avana gaddavannu keredhanu
+it shrunk quickly	addhu bega ksheenavayithu
+we will sing it	naavu adhannu haaduvevu
+they sat there	avaru alli kulitharu
+I can speak it	naanu adhannu mathadaballe
+she spends money	avalu hannavannu kharchu maadhidhalu
+we suffered from that	naavu adharindha bhadhege ola pattevu
+they suggest that	avaru adhannu salahisidharu
+I surprised him	naanu avanige ashcharya padisidhe
+she took that	avalu adhannu thegedhukondalu
+we teach it	naavu bhodhane maadidhevu
+they told us	avaru nannage helidharu
+she thanked him	avalu avanige dhanyawhadha helidhalu
+I can think about it	naanu adhara bagge yochane
+she threw it	avalu adhannu yesedhalu
+we understand that	namage adhu arthavagutthadhe
+they want that	avarige adhu beku
+I can wear it	naanu ahadahnnu dharisaballe
+she writes that	avalu adhannu bareyuthaale
+we talk about it	naavu adhara bagge mathadona
+they have it	avara hatthira idhe
+I watched it	naanu nodidhe
+I will talk about it	naanu adhara bagge mathanadutheene
+he bought that yesterday	avanu adhannu ninne thegedhu konda
+we finished it	naavu mugisidhevu
+a green tree	ondhu hasiru maraa
+a tall building	ondhu uddhha kattada
+a very old man	obba thumbha vayassadha manushya
+the old red house	ondhu haleyadhadha mane
+a very nice friend	obba thumbha olle geleya
+colors	Bannagalu
+black	Kappu
+blue	neeli
+brown	kandhu
+gray	thizi
+green	hasiru
+orange	kesari
+purple	nerale
+red	kempu
+white	bili
+yellow	harishina
+sizes	Gathra
+big	dodda
+deep	aala
+long	uddha
+narrow	sanna
+short	chikka
+small	sanna
+tall	uddha
+thick	dappa
+thin	thelu
+wide	agala
+shapes	aakaragalu
+circular	gola
+straight	nera
+square	gathra
+triangular	thribhuja
+tastes	ruchigalu
+bitter	kahi
+fresh	thaja
+salty	uppu
+sour	huli
+spicy	khhara
+sweet	sihi
+qualities	nadathe
+bad	ketta
+clean	shubhra
+dark	kathhale
+difficult	kashta
+dirty	galiju
+dry	ona
+easy	sulabha
+empty	khali
+expensive	dhubhari
+fast	sheeghra
+foreign	vidheshi
+full	poora
+good	olle
+hard	gatti
+heavy	bhhara
+inexpensive	thutti
+light	hagura
+local	sthaleeya
+new	hosa
+noisy	galate
+old	hale
+powerful	shakthishalli
+quiet	prasannathe
+correct	sari
+slow	nidhana
+soft	komala
+very	thumbha
+weak	dhurbhala
+wet	theva
+wrong	thappu
+young	yuva
+quantities	alathegalu
+few	kelavu
+little	swalpha
+many	hala
+much	jasthi
+part	bhagha
+some	kela
+a few	kelavu
+whole	poora
+I read a book sometimes	naanu kelasamaya pusthakavannu odhuthhene
+I will never smoke	naanu dhoomphana maaduvudihiilla
+are you alone?	neevu obbareiddhira
+adverbs of time	samayadha kriyāpada
+yesterday	niinne
+today	indhu
+tomorrow	naale
+now	eega
+then	aagale
+later	aamele
+tonight	ivathu rathri
+right now	ee samaya
+last night	ninnne rahthri
+this morning	indhu belagge
+next week	mundhina vaara
+already	aavagalae
+recently	ittheechina
+lately	nanthra
+soon	sheeghradhalli
+immediately	thakshana
+still	innuu
+yet	innuu
+ago	hindhe
+adverbs of place	sthaladha kriyāpada
+here	illi
+there	alli
+over there	dooradalli
+everywhere	ella kade
+anywhere	elladharu
+nowhere	elliyu illa
+home	mane
+away	dhoora
+out	horage
+adverbs of manner	gunadha kriyāpada
+very	thuumbha
+quite	samanyavagi
+pretty	sundhara
+really	nizhavaagi
+fast	veega
+well	sari
+hard	khsatha
+quickly	thakshana
+slowly	nidhanaavagi
+carefully	sookshmavaagi
+hardly	kashthavaagi
+barely	mele
+mostly	samanyavagi
+almost	poora
+absolutely	khandheetha
+together	jotheyali
+alone	obbane/obbale
+adverbs of frequency	sambhavadha kriyāpada
+always	yavaagalu
+frequently	aaagaagaa
+usually	samanyavaagi
+sometimes	yavaagaladharu
+occasionally	samanyavaagi
+seldom	thaathakaalika
+rarely	thaathakaalika
+never	illave illa
+Feminine	sthree linga
+he is happy	avanu santhoshavagiddhane
+she is happy	avalu santhoshavagiddhale
+he is American	avanu americadavanu
+she is American	avalu americadavanu
+man	gandasu
+woman	hengasu
+father	appa
+mother	amma
+brother	thamma
+sister	thangi
+uncle	maava
+aunt	at the
+bull	gooli
+cow	hasu
+boy	huduga
+girl	hudugi
+objects	vasthugalu
+bathroom	bacchaalu mane
+bed	mancha
+bedroom	kone
+ceiling	chavani
+chair	kurchi
+clothes	battegalu
+coat	kotu
+cup	kappu
+desk	meju
+dress	vasthra/battegalu
+floor	nela
+fork	forku
+furniture	mejugalu
+glass	gajugalu
+hat	topi
+house	mane
+ink	inku
+jacket	jackettu
+kitchen	adige mane
+knife	katthi
+lamp	lampu
+letter	kagadha
+map	boogola pustaka
+newspaper	dina pathrike
+notebook	pustaka
+pants	pantu
+paper	kagadha
+pen	pennu
+pencil	pencillu
+pharmacy	oushadhalaya
+picture	chitra
+plate	thatte
+refrigerator	fridge
+restaurant	hotelu
+roof	chavani
+room	roomu
+rug	raggu
+scissors	katthari
+shampoo	shampoo
+shirt	angi
+shoes	bootu
+soap	saabunu
+socks	kaicheela
+spoon	chamacha
+table	meju
+toilet	shauchalaya
+toothbrush	dhantha shubraka
+toothpaste	dhantha shubraka
+towel	tholina vasthra
+umbrella	chatri
+underwear	ola udupu
+wall	gode
+wallet	jebu
+window	kitaki
+telephone	dooravani
+Prepositions	padha punja
+inside the house	maneya olage
+outside the car	carina horagade
+with me	nanna jothe
+without him	avanilladhe
+under the table	mejina kelage
+after tomorrow	naale adhamele
+before sunset	suryasthadha olage
+but I'm busy	adhare naanu thumbha busy
+about	bagge
+above	mele
+across	moolaka
+after	aamele
+against	viruddha
+among	madhye
+around	suthha
+as	haage
+at	alli
+before	aagale
+behind	hindhe
+below	kelage
+beneath	kelage
+beside	pakka
+between	madhye
+beyond	dhhora
+but	aadhare
+by	moolaka
+despite	aadhare
+down	kelage
+during	aaga
+except	bittu
+for	adhakkagi
+from	adharindha
+in	indha
+inside	olagindha
+into	olagindha
+near	hatthira
+next	balika
+of	indha
+on	mele
+opposite	viruddha
+out	horage
+outside	horagade
+over	mele
+per	madhye
+plus	matthu
+round	gola
+since	indha
+than	mele
+through	indha
+till	alliyavaregu
+to	indha
+toward	sameepa
+under	kelage
+unlike	adhannu bittu
+until	alliyavaregu
+up	mele
+via	indha
+with	jothe
+within	olagindha
+without	illadhe
+two words	eradu padhagalu
+according to	adhakkanusaravagi
+because of	adhakkagi
+close to	adhara hatthira
+due to	addhakkagi
+except for	adhannu biitu
+far from	adhrindha dhoora
+inside of	adhara olage
+instead of	adannu bittu
+near to	adhara hatthira
+next to	adhara balika
+outside of	adharindha horage
+prior to	addhakintha hindhe
+three words	mooru padhagalu
+as far as	eevaregu
+as well as	atharindha
+in addition to	athara jothege
+in front of	athara mundhe
+in spite of	athagyu
+on behalf of	adhakkagi
+on top of	adhara mele
+demonstrative prepositions	demonstrative prepositions
+this	idhu
+that	adhu
+these	ivu
+those	avu
+Questions	prashnegalu
+how?	hege?
+what?	yenu?
+who?	yaaru?
+why?	yaake?
+where?	yelli?
+where is he?	avanu yelli
+what is this?	idhu yenu
+why are you sad?	neenu yake heegidhiya
+how do you want to pay?	neevu hege pavathi madabayasuthheera
+can I come?	naanu barabahude
+is he sleeping?	avanu niddhe maduthaiddhaneye?
+do you know me?	ninage naanu gothha
+do you have my book?	ninna bali nanna pustaka idheya
+how big is it?	adhu eshtu dhoddadhu
+can I help you?	naanu nimage sahaya madabahude
+can you help me?	nanage sahaya maduthhira
+do you speak English?	neevu inglish mathanadutthira
+how far is this?	idhu esthu doora ide
+what time is it?	eega esthu ghante
+how much is this?	idhu esthu doora ide
+what is your name?	ninna hesaru yenu
+where do you live?	neevu elli vaasisutheera
+Pronouns	sarvanaamagalu
+I	naanu
+you	neenu
+he	avanu
+she	avalu
+we	naavu
+they	avvaru
+me	nanna, nannage
+you	ninna, nimage
+him	avana, avanige
+her	avala,avalige
+us	namma
+them	avarige
+my	namma
+your	ninna
+his	avana
+her	avala
+our	namma
+their	avara
+mine	nanna
+yours	nimma
+his	avana
+hers	avala
+ours	namma
+theirs	avara
+I speak	naanu mathanaduthini
+you speak	neenu mathanaduthiya
+he speaks	avanu mathanaduthiddane
+she speaks	avalu mathanaduthaailddale
+we speak	naavu mathanaduthiddeve
+they speak	avaru mathanaduthiddare
+give me	nanage kodi
+give him	avanige kodu
+give her	avalige kodu
+give us	namage kodu
+give them	avarige kodu
+my book	nanna pustaka
+your book	ninna pustaka
+his book	avana pustaka
+her book	avala pustaka
+our book	namma pustaka
+their book	avara pustaka
+Verbs	kriya padhagalu
+Past	bootha
+I spoke	naanu mathanadide
+I wrote	naanu baredhe
+I drove	naanu odisidhe
+I loved	naanu preethiside
+I gave	naanu kotte
+I smiled	naanu nakke
+I took	naanu thegedhukonde
+he spoke	avanu mathanadida
+he wrote	avanu baredha
+he drove	avanu odisidha
+he loved	avanu preeti madhida
+he gave	avanu kotta
+he smiled	avanu nakka
+he took	avanu tegedukonda
+we spoke	naavu mathanadidhevu
+we wrote	naavu baredhevu
+we drove	naavu odisidhevu
+we loved	naavu preethisidevu
+we gave	naavu kottevu
+we smiled	naavu nakkevu
+we took	naavu tegedukondevu
+Future	bhavishya kala
+I will speak	naanu mathanaduthhene
+I will write	naanu bareyutheeni
+I will drive	naanu odisutheeni
+I will love	naanu preethisuthene
+I will give	naanu koduthene
+I will smile	naanu naguthenne
+I will take	naanu tegedukolluthene
+he will speak	avanu mathanaduthhane
+he will write	avanu bareyuthaane
+he will drive	avanu odisutthane
+he will love	avanu preethisuthhane
+he will give	avanu koduthhane
+he will smile	avanu naguthhane
+he will take	avanu tegedhukolluthane
+we will speak	naavu mathanaadona
+we will write	naavu bareyona
+we will drive	naavu odisona
+we will love	naavu preethisona
+we will give	naavu kodona
+we will smile	naavu nagona
+we will take	naavu thagolonna
+Present	varthamana kaala
+I speak	nannu mathanadutthne
+I write	naanu bareyuthenne
+I drive	naanu odisutheene
+I love	naanu preethi madutheene
+I give	naanu koduthheene
+I smile	nannu nagutheene
+I take	naanu tegedukolluthene
+he speaks	avanu mathanadutthaiddhane
+he writes	avanu bareyuthhaiddhane
+he drives	avanu odisuthhaiddhane
+he loves	avanu preethisutthaiddhane
+he gives	avanu koduthaiddhane
+he smiles	avanu nagtthaiddhane
+he takes	avanu tegedhukolluthaane
+we speak	naavu mathanaduthheve
+we write	naavu bareyuthevve
+we drive	naavu odisutheeve
+we love	naavu preethisutheeve
+we give	naavu kodutheeve
+we smile	naavu nagutheeve
+we take	naavu tegedukollutheve
+I can accept that	naanu adhannu thegedhu kollaballe
+she added it	avalu adhakke haakidhalu
+we admit it	naavu adhannu oppikondevu
+they advised him	avaru avanige advise maadidharu
+I can agree with that	naanu adhakke oppaballe
+she allows it	avalu adhaannu opputhaale
+we announce it	naavu adhannu vicharisutheeve
+I can apologize	naanu kshamekelaballe
+she appears today	avalu eevatthu kaanisidhalu
+they arranged that	avaru adhannu anusaravaghisidharu
+I can arrive tomorrow	naanu naale baraballe
+she can ask him	avalu adhannu kelabhaudhu
+she attaches that	avalu adhannu antisidhalu
+we attack them	naavu adhannu dhaaali maadona
+they avoid her	avaru avalannu nirakarisidharu
+I can bake it	naanu adhannu beyisaballe
+she is like him	avalu avana thara
+we beat it	naavu adhannu hathhikka balleveu
+they became happy	avaru santhosha pattaru
+I can begin that	naanu adharindha aarambisaballe
+we borrowed money	naavu hanavannu thegedukondhevu
+they breathe air	avaru gaali sevisuthhare
+I can bring it	naanu adhannu tharaballe
+I can build that	naanu adhannu kattaballe
+she buys food	avalu ootavannu kondhalu
+we calculate it	naavu adhanu koodutheve
+they carry it	avaru adhanu tharuthhare
+they don't cheat	avaru mosa maaduvudilla
+she chooses him	avalu avannannu aarisidhalu
+we close it	naavu adhannu muchhuidevu
+he comes here	avanu illi baruthhane
+I can compare that	naannu adhannu aleyaballe
+she competes with me	avalu naana jhothege paiphotisutthale
+we complain about it	naavu adhara bagge complain maadidhevu
+they continued reading	avaru adhannu odhuvudhannu mundhuvarisidharu
+he cried about that	avanu adhara baggae atthanu
+I can decide now	naanu adhannu nirdharisaballe
+she described it to me	avalu adhannu nanage vivarisidhalu
+we disagree about it	naavu adhannu oppikondevu
+they disappeared quickly	avaru thakshana mayavagibittaru
+I discovered that	naanu adhannu kandhu hididhenu
+she dislikes that	avalu adhannu ishta padhuvudilla
+we do it	naavu idhannu maaduvevu
+they dream about it	avaru adhara bagge aalochisidharu
+I earned	naanu adhannu samphadhisidhe
+he eats a lot	avanu thumbha thinnuthhane
+we enjoyed that	naavu adhannu thrupthi pattevu
+they entered here	naavu illi thalupidhevu
+he escaped that	avanu adharindha thappisikondha
+I can explain that	naanu adhannu vivarisaballe
+she feels that too	avalu adhannu saha neneyuthhale
+we fled from there	naavu allindha odidhevu
+they will fly tomorrow	avaur naale haaruthhare
+I can follow you	naanu ninnnannu himbhalisidhe
+she forgot me	avalu nannanna marethalu
+we forgive him	naavu avannannu kshamisuthheve
+I can give her that	naanu avalige adhannu kotte
+she goes there	avalu allighe hoguthiddale
+we greeted them	naavu avarrige vandhisidhevhu
+I hate that	naanu adhannu ishtha paduvudhilla
+I can hear it	naanu adhannu kelabhalle
+she imagine that	avalu adhannu kalphane madhikondhalu
+we invited them	naavu avannannu karedhevu
+I know him	nannage avanu gotthu
+she learned it	avalu adhannu kalithalu
+we leave now	naavu eega bidutheve
+they lied about him	avaru avana bagge sullu helidharu
+I can listen to that	naanu adhakke kellaballe
+she lost that	avalu adhannu kaledhukondalu
+we made it yesterday	naavu idhaanu ninne madhidhevu
+they met him	avaru avannannu nodhidharu
+I misspell that	naanu adhannu thappagi helidhe
+I always pray	naanu yavaagalu prarhthane maaduthhene
+she prefers that	avalu adhannu ishata padhuttale
+we protected them	naavu avarannu rakshisutteve
+they will punish her	avaru avalige shikshe kodutthaare
+I can put it there	naanu adhannu alli idhaballe
+she will read it	avalu adhannu odhuttale
+we received that	naavu adhannu punaravarthisidharu
+they refuse to talk	avaur mathanaaduvudhakke niraakharisidharu
+I remember that	naanage adhu gnapakha idhe
+she repeats that	avalu adhannu mathhe helidhalu
+we see it	naanvu adhannu nodidhaevu
+they sell it	avaru adhannu salahisidharu
+I sent that yesterday	naanu adhannu ninne kalisidhe
+he shaved his beard	avanu avana gaddavannu keredhanu
+it shrunk quickly	addhu bega ksheenavayithu
+we will sing it	naavu adhannu haaduvevu
+they sat there	avaru alli kulitharu
+I can speak it	naanu adhannu mathadaballe
+she spends money	avalu hannavannu kharchu maadhidhalu
+we suffered from that	naavu adharindha bhadhege ola pattevu
+they suggest that	avaru adhannu salahisidharu
+I surprised him	naanu avanige ashcharya padisidhe
+she took that	avalu adhannu thegedhukondalu
+we teach it	naavu bhodhane maadidhevu
+they told us	avaru nannage helidharu
+she thanked him	avalu avanige dhanyawhadha helidhalu
+I can think about it	naanu adhara bagge yochane
+she threw it	avalu adhannu yesedhalu
+we understand that	namage adhu arthavagutthadhe
+they want that	avarige adhu beku
+I can wear it	naanu ahadahnnu dharisaballe
+she writes that	avalu adhannu bareyuthaale
+we talk about it	naavu adhara bagge mathadona
+they have it	avara hatthira idhe
+I watched it	naanu nodidhe
+I will talk about it	naanu adhara bagge mathanadutheene
+he bought that yesterday	avanu adhannu ninne thegedhu konda
+we finished it	naavu mugisidhevu
+Negation	nishedha
+he is not here	avanu illi illa
+that is not my book	adhu naana pushtaka alla
+do not enter	barabeda
+I don't speak	naanu mathanaduvudiilla
+I don't write	naanu bareyuvudiilla
+I don't drive	naanu odisuvudilla
+I don't love	naanu preeti maduvudilla
+I don't give	naanu koduvudilla
+I don't smile	naanu naguvudilla
+I don't take	naanu tegedukolluvudhillla
+he doesn't speak	avanu mathanaduvudilla
+he doesn't write	avanu bareuvudhilla
+he doesn't drive	avanu odisuvudhilla
+he doesn't love	avanu preethi maaduvudilla
+he doesn't give	avanu koduvudilla
+he doesn't smile	avanu naguvudilla
+he doesn't take	avanu tegedukolluvudilla
+we don't speak	naavu mathanaaduvudhiilla
+we don't write	naavu bareuvudhillla
+we don't drive	naavu odisuvudhillla
+we don't love	naavu preethi maaduvudilla
+we don't give	naavu koduvudilla
+we don't smile	naavu naguvudilla
+we don't take	naavu tegedukolluvudilla
+Hello	 Namaskara 
+How are you? 	Neevu Chennaagidira
+I am fine	Naanu chennagiddene 
+ Fine, thank you.	Chennagiddene. Dhanyavaada 
+Goodbye 	Hogibitt barthene
+What is your name?	Nimma hessarenu?
+My name is… 	Nanna hesaru…
+Nice to meet you.  	Nimmannu nodi santhoshavaythu.
+Please 	 Dayavit.t.u.
+Thank you 	 Vandenegalo 
+You’re Welcome  	 Tamage suswagatha
+Yes  	 Havdu
+No 	 Illa
+Excuse me (getting attention)  	Illinodi 
+Excuse me  (begging pardon)	  K-shamisi
+I’m Sorry.  	Nannindha thappaihu
+Good morning   	 Shubha munjane
+Good evening  	Shubha sanje
+Good night    	Shubha ratri
+Mother 	Amma / taayi
+Father	 Appa / tande
+Son	 Maga
+Daughter	 magaLu
+Elder Brother	 aNNa
+Younger Brother	 Tamma
+Elder Sister	 Akka
+Younger Sister 	Tangi
+Grandfather 	Ajja / taata
+Grandmother 	Ajji
+Husband	 ganDa
+Wife 	henDathi
+Children	 makkaLu
+Breakfast	 Thindi
+ Lunch 	Oota
+ Eggs 	Motte
+Rice 	Anna
+Coffee 	Kaapi
+ Water	 Neeru
+ Beans 	huraLikaayi
+Potato	 Aaloo geDDe
+Apple 	sEbu
+Orange	 kittaLe
+Vegetables 	Tarakaarigalu
+Salad	 kOsaMbari
+Butter	 beNNe
+Milk	 Haalu
+Sugar	 Sakkare
+Tea 	Chaa
+How much is this? 	Idhakke yeshtu
+ I don’t want it. 	Nanige beda.
+Expensive	 Dhubaar
+I can’t speak Kannada (well).	     Nanage Kannada barodilla.
+ Do you speak English? 	         Nimage English baruththaa?
+Help! 	Sahaaya maadi
+ Look out!	 Jopaana
+ I don’t understand	 Nanage artha vaguthilla
+Where is the toilet?	 Shouchalaya
+ Police!	 Arakshaka
+I need your help. 	Nimma sahaya bekagidhe.
+ I’m lost.	 Nanage daari thappide.
+ I lost my bag.	 Nanna cheela kaledu hoyithu.
+ I need a doctor 	Nanage doctor beku.
+ Who? 	Yaaru
+Where?	 Elli
+When?	 Yaavaga
+Why?	 Yaake/Eke
+What?	 Enu
+Which?	 Yaava/yavudu
+I don’t know. 	Gottilla
+My family is here.	nanna kuṭumba illi ide.
+I am here.	Nanu illi iddene.
+You are here.	Ninu illiddiya.
+He is here and she is here.	Avanu illiddane mattu avaḷu illiddaḷe.
+We are here.	Navu illiddeve.
+You are here.	Nivu illiddiri.
+They are all here.	Avarugaḷellaru illiddare
+We are a family.	navu onde sansaradavaru .
+The family is not small.	I sansara cikkadalla
+The family is big.	I kutumba doddadu
+this thing (this one)	idu
+that thing (that one)	adu
+why are you leaving early today?	 neenu yaake idinaa begaa hogu-ta-idiya?
+I have some work today, that's why I am leaving early.	 idinaa/indu nanage swalpa kelasa ide, addarinda naanu begane hogu-ti-dini.
+why do you come late? 	neenu eke taDa-wagi baruttiya? 
+why you came late? 	neenu eke taDa-wagi bande? 
+What is the price? 	Idakke yeshtu kraya?
+I don't understand 	Nanige artha aagalilla 
+Tell me the way please 	Swalpa daari helikodutheera 
+What is your name? 	Nimma hesaru yenu 
+My name is 	Nanna hesaru 
+Where can I find 	  Yelli siguvuthade 
+I want water 	Nanige neeru beku 
+I want a ticket 	Nanige Ticketu beku 
+Where is the toilet	 Toilet yelli ide 
+I have come from Australia	 Nanu Australia dinda 
+Are you open tomorrow	 Neevu nale thegdideera 
+Is this very far	 Idu thumba doora ida? 
+How much is this 	Idakke yeshtu kraya? 
+This is too expensive	 Idakke kraya jasthi 
+Make this price less	 Swalpa kammi maadi 
+How are you?        	Neevu hege iddeera?    
+Which is your favourite colour?	Ninna istavadha banna yavudhu?/ Ninege yava banna ista?
+In which room did you sleep?	Neenu yava koneyalli malaghidhe?
+Which story did you tell?	Neenu yava khathe helidhe?
+Which is the sweetest fruit?	Yallakintha saviyatha hannu yavudhu?
+Which is the best newspaper in Hindi?	Hindiya yava patrike sarvashresta?
+Which Indian state has the largest population?	Bharatha deshada yava rajyadalli jasti janasankye?
+Where did you come from?	Neenu yellindha bandhe?/ Ninna ooru yavadhu?
+Where did you sleep?	Neenu yelli malaghidhe?
+Where is the manager’s cabin?	Managerina kone yavudhu?
+Where should I go?	Nanu yellige hogabeku?
+Whom should I contact?	Nanu yaranna samparkisabeku?
+Is it a book?	Idu pustakava?/ Idu pustaka naa?
+It is a book	Ide pustaka
+Is it the answer?	Idu uttarana?
+It is the answer	Ide uttara
+Will you come with me?	Neenu nanna joteghe baaruthiya?
+I shall come with you.	Naanu ninna jotege barythene
+Will you give me your pen?	Ninna pennu/ kalam nanage koduthiya?
+Yes, of course.	Avashyavaghi koduthene
+Do you love me?	Neenu nannannu preethisuthiya?
+Yes, I love you.	Hovadhu naanu ninna preethisuthene
+Can you give me your pen?	Nanege ninna penana kodabhahudha?
+Can you lift the box?	Neenu dabbiyanna yethe balliya?
+Can you write the exam?	Ninindha parikshe bariyalu sadyana?
+Did you have lunch?	Oota madhidheya?/ Oota aayitha?
+How are you?	Hegiddhiya?/ Neenu heghiddhiya?
+I am fine	Nanu chenagiddene.
+He is eating an apple	Avanu sebu thinnuthidhane
+He ate an apple	Avanu sebu thindhanu
+I saw the film last week	Nanu hodha wara picture/ chalanachitra nodidhanu
+She came by bus yesterday	Avalu ninne businalli bandhalu
+They went to the mosque	Avaru darga ge hodharu
+He slept the whole night	Avanu eedi raatri malaghidhanu
+He wrote well in the examination	Avanu pariksheyalli chennaghi baredhanu
+He has eaten	Avanu thindhidhane
+He will eat	Avanu thinnuthane
+He will go	Avanu hoguthane
+He will come	Avanu baruthane
+What is your name?	Ninna hesarenu?/ Ninna hesaru yenu?
+What	Yenu?
+Your	Ninna
+Name	Hesaru
+What did you do?	Neenu yenu maduthiya?
+What should I do?	Nanu yenu madabeku?
+What can I do?	Nanu yenu madabhahudhu?/ Nanu yenu madaballe
+What are the questions?	Yenu prashnegalu?
+What were the questions?	Yenu prashnegaliddhavu?
+What is the last question?	Koneya prashne yenu?
+What is written in the letter?	Pattradhalli/Kaagadhadalli yenu baredhidhe?
+What you had been told?	Ninege yenu helabekithu?
+What will be the answer?	Uttara yenirabhahudhu?
+Why did you come?	Neenu yaake bandhe?
+Why did you sleep?	Neenu yaake malaghidhe?
+Why did you tell him to go?	Neenu avanige yakee hoghalikke hellidhe?
+Why did he bring the bag?	Avanu yaake cheela thandhanu?
+Why did she pay the money?	Avalu yakee dhuddu kottalu?
+Why did they sit there?	Avaru alli yakee kootharu?
+Why do you drive the car?	Neenu yakee gaadi chalayisuthiya?
+Why are they late for the meeting?	Avaru meetingige yaake thadavadharu?
+How did you come?	Neenu hege bandhe?
+How did you sleep?	Neenu hege malaghidhe?
+How did you drive?	Neenu hege gaadi chalayisidhe?.
+How did you write?	Neenu hege baredhe?
+How many apples are there in my hand?	Nanna kaiyalli yestu sebu idde?
+How many did you take?	Neenu yestu thagedhukonde?
+How much did he pay you?	Avanu ninage yestu hana kottanu?
+How much distance to go?	Yestu doora hoghabheku?
+How was the journey yesterday?	Ninneya prayana heghithu?
+Which way did you come?	Neenu yaava daariyalli bandhe?
+  Good morning sir	namaskaara saar.
+who are  you (polite) ?	namaskaara niivu yaaru ? 
+ Which is his/her native Place ?  	avara uuru yaavudu ?
+ Whis is / her state ?	ivaru raajya yaavudu ?
+ Which is your district ?	nimma jille yaavudu ?
+My state is Karnataka	nanna raajya KarnaaTaka
+His/her native place is Mysore	avaru uuru mayasuuru
+His/her district is Tumkur	ivara jille tumakuuru
+ Which book is this (prox.) ?	idu yaava pustaka ?
+ This is a novel	idu kaadambari
+My name is xxx	Nanna hesaru xxx.
+ What is your name?	Nimma hesaru enu?
+ How much does it cost?	Idakke eshtu duddu?
+ What's the time?	Time eshtu?
+ Where is the railway station ?	Railway station/police station [or any other place xyz] elli barutte?
+ Amazing.	Adhbutha
+ How are you ?	Neevu hengidira?
+ I'm fine thankyou.	Naanu channagidini dhanyavaada. 
+ Are you well?	Hushaaragiddira?
+ I don't speak Kannada fluently.	 kannada sariyagi baralla.
+ Sorry.	Kshamisi.
+ It's ok.	Parvaagilla.
+ I don't want this.	Beda.
+ I want this.	Beku. 
+ No.	Illa.
+ Yes.	Howdu.
+Rice, dal, wheat, gold, silver, diamond, black, white, red,green, yellow.	Akki, baele, godhi, chinna, belli, vajra,kappu, bili, kempu, hasiru, haladi.
+ Please give me some water.	Swalpa neeru kodi.
+ Dog, cat, bird, butterfly, donkey, cow.	Naayi, bekku, hakki, chitte, katte, hasu.
+What is your name?	nimma hEsarEnu?
+My name is mamatha	nanna hEsaru mamatha
+How much do you charge?	neevu eshTu duDDu thagothiraa?
+Your are expensive, I can not afford	neevu duDDu jaasthi keLuthira, naanu aShTu koDuvudakke aagolla
+Call me if you are not coming	neevu baralilla andhre, call- maaDi
+Do not come tomorrow	naaLe barabEDi
+Dispose the thrash	kasavannu horagaDe haaki
+Will you carry the extra food?	neevu extra aDugeyannnu thagonDu hoguthira?
+I have some old clothes for you	nanna hattira nimage swalpa haLe baTTe ide
+Will you provide additional help if I require?	nanage innu help bekaadare, neevu help maaDuthiraa?
+Will you work at my friends place?	neevu nanna friend maneyalli kelsa maaDuthiraa?
+You should wash the car daily	neevu car-annu daily wash maaDabEku
+Where is your house?	nimma mane elli ide?
+Which cars have you driven	yaava car-gaLanna neevu ODisideera?
+What is your mobile number?	nimma mobile number enu?
+Take down my mobile number	nanna mobile number thagolli
+What time can you come?	neevu yaava time-ge baruthiraa?
+You come by 8am	neevu belagge 8'0clock ge banni
+Wear clean clothes	clean baTTe haakikoLLi
+Pls. drive slowly	dayaviTTu (gaaDiyannu) nidhaanavaagi chalaisi
+Turn right	Right thirugi
+Turn left	Left thirugi
+Go straight	Straight hOgi
+What is the cost of tomato	Tomato bele eShTu
+What is the cost of apple	Apple bele eShTu
+Pls. weigh correctly	dayaviTTu sariyaagi tooka maaDi
+Sorry I donot have change	Kshamisi nanna hattira change-illa
+Give the change	Change-koDi
+Give the change next time	Change next time koDi
+Pls. remove damaged / rotten ones	dayaviTTu damage-aagirodanu thegeyiri
+I don't want cover	nanage cover-beDa
+I have a bag	nanna hathira bag-ide
+I don't want cover, I have a bag	nanage cover-beda, nana hathira bag-ide
+Give a cover	Cover-koDi
+Give a paper bag	paper bag-koDi
+I don't want cover, give me a paper bag	nanage cover-beDa, paper bag-koDi
+For sweeping	kasa guDisOke
+Pls. be on time	dayaviTTu time sariyaagi banni
+What time can you come?	neevu yaava time-ge baruthiraa?
+You come by 6 am	neevu beLagge aaru ganTege barabEKu
+Take down my mobile number	nanna mobile number thagoLLi
+What is your mobile number?	nimma mobile number Enu?
+Where is your house?	Nimma mane elli ide?
+Which other houses do you work here?	neevu illi bEre yaava manegaLalli kelsa maaduthiraa?
+Your are expensive, I can not afford	neevu duDDu jaasthi kELuthira, naanu aShTu koDuvudakke aagolla
+How much do you charge?	neevu eShTu duDDu thagothiraa?
+My name is mamatha	Nana hesaru Mamatha
+What is your name?	nimma hesarEnu ?
+For moping	nela oresOke
+For washing clothes	baTTe ogeyoke
+For washing utensils	paatree tholeyOke
+For cooking	aDuge maaDOke
+What is your name?	nimma hesarEnu?
+how do i go there?	allige naanu hEgE hOguvudu?
+how much is this?	idhu yeShTu?
+Where is your house?	nimma mane elli idhe?
+where is the nearest police station ?	hathiradha police station yelli idhe?
+where can i go shopping ?	naanu shopping maaDalu yelli hOga beku
+can you help me ?	nanage sahaaya maaDuvira?
+what are you doing ?	neevu yenu maaDuthidheera?
+would you join me for lunch today ?	eedina nanna jothe oota maduvira?
+how do i go to the airport ?	naanu airport ge hEgE hOguvudhu?
+where shall we meet ?	naavu yelli bhETi aagoNa?
+was there a call for me?	nanage yaraadharu call maaDidhara?
+what did you do?	neenu yenu maaDiruve ?
+what will you do?	neenu yenu maaDuthiya?
+what should i do?	naanu yenu maaDabeku?
+What can I do?	naanu yenu maDabhahudu?
+What are the questions?	yaava prashnegaLu?
+Why did you come?	Neenu yaake bandhe?
+How did you come?	neenu hEgE bandhe?
+How did you write?	neenu hEgE baredhe?
+How much distance to go?	yeShTu doora hOgabeku?
+How was the journey ?	prayaaNa hEgitthu?
+Which way did you come?	Neenu yaava daariyalli bandhe?
+Which is your favourite colour?	ninage yaava banna iShTa?
+Where did you come from?	neenu yellindha bandhe?
+Whom should I contact?	naanu yarannu samparkisabEku?
+Will you come with me?	neenu nanna jothege baruveya?
+I shall come with you	Naanu ninna jothege baruve
+Did you have your lunch?	oota maaDideya?
+How are you?	neevu hegiddhira?
+I am fine	naanu chenagiddEnE
+Are you busy?	neenu busy idhiya?
+I am busy now	naanu eega busy ideeni
+I am busy now	
+I Like Bangalore	nanage bengaLuru ishta
+Can you speak Kannada ?	nimage kannaDa maathanaDalu barutha?
+Yes, I can speak in Kannada	haudhu, nanage kannaDa maathanaDalu baruthe
+I don't know	nanage baruvudhila
+Stop	Nillisi
+Do not talk on phone while driving	Drive-maaduvaaga phone maaDabeDi
+Do not talk on phone while driving	
+Wear seat belt	Seat belt haakikoLLi
+Do not jump signals	Signal haarisabeDi
+Mind the road humps	Road naliruva humps nODi (gaaDi) chalaisi
+Pls. wait for 5mins, I will come	dayaviTTu 5mins wait-maaDi, naanu baruthEnE
+Come on time tomorrow	naaLe time sariyaagi banni
+Why didn't you come yesterday?	neevu nenne yaake baralilla?
+Call me if you are not coming	neevu baralilla andhre, call- maaDi
+Do not come tomorrow	naaLe barabEDi
+How many days leave do you want?	nimage eShTu dina raje bEku?
+Do not drink and drive	kuDidhu drive maaDabeDi
+How much would you charge for cooking?	neevu aDuge maaDOke eShTu duDDu thagothiraa?
+How much would you charge for sweeping, moping and washing utensils?	neevu kasa gudisOke, nela oresOke matte paatre tholeyOke eShTu duDDu thagothiraa?
+You have to sweep daily and mop on alternate days	neevu dinaa kasa guDisi, eraDu dinakke omme nela oresabEku
+While mopping change water frequently	nela oresuvaga neerannu badalaayisutha iri
+How many dishes will you cook daily?	dinakke eShTu vidhavaada aDuge maaduthiraa?
+Cook chapathi, rice, one subzee and daal daily	neevu dinaa chapathi, anna, ondu subzee matte dhaal maaDbeku
+You cut the vegetables required for cooking	neevu aDugege bEkaada vegetables cut-maaDi
+Do not make the food spicy	aDuge khaara maaDabEDi
+The food you cooked was spicy	neevu maaDidha aDuge khaaravaagittu
+Make the food less spicy	aDugeyalli khaaravannu kaDime maaDi
+Food was very yummy	aDuge chennagi ithu
+Pls. come early tomorrow	dayaviTTu naaLe bega banni
+Work slowly	Slow-aagi kelsa maaDi
+Be careful with things	vasthhugala bagge hushaaru
+Maintain cleanliness	kelasa clean-aagi maaDi
+Why didn't you come yesterday?	neevu nenne yaake baralilla?
+Welcome.	susvagata
+Hello (General greeting) 	(namaste) (namaskara)
+How are you?	 (hegiddera?) (athava kshemana?)
+Reply to 'How are you?	 (nan cennagiddene, nivu heg'iddira?)
+Long time no see	(tumba divasagalinda kanisalilla)
+What's your name? 	(ninna hesarenu?) - sg (nimma hesarenu?) - pl/frm
+My name is 	(nanna hesaru ...)
+Where are you from? 	(nimma ooru yavudu?) (athava nevu yava kadeyavaru?)
+I'm from ... 	(na ... linda bandiddini) (na ... linda bandeni)
+Pleased to meet you 	(nimmannu bheti madiddakke santosha)
+Good morning (Morning greeting)	(shubhodaya)
+Good afternoon (Afternoon greeting) 	(shubha madhyahna)
+Good evening (Evening greeting)	(shubha sayankala)
+Good night 	(shubharatri)
+Goodbye (Parting phrases) 	 (hogi banni athava hogi bartera?)
+Good luck!	(olleyadagali athava shubhavagali)
+Cheers! Good Health! (Toasts used when drinking)	(tumba santosha athava khushiyaytu)
+Have a nice day	(shubha dinavagali)
+Bon appetit Have a nice meal	(uta saviyiri) (uta anandisi) (uta bhojana saviyiri) (uta bhojana anandisi)
+Bon voyage Have a good journey	(prayana sukhakaravaagirali hogi banni)
+Do you understand?	 (nimage arthavagatta?)
+I understand	(nanag arthavagatta)
+I don't understand 	(tili'lilla) (nanag artha ag'lilla)
+Please speak more slowly	(salpa mellage mata?i)  (salpa nidhana'vagi mata?i)
+Please say that again	(innomme he?i) (inn'ond'sala he?i)
+Please write it down	(bared' ko??'ri)
+Do you speak Kannada?	(neevu kannada maataadteera?)
+(reply to 'Do you speak ...?')	(houdu, svalpa svalpa barutte)
+How do you say ... in Kannada?  	(kannadadalli hege helodu?)
+Excuse me 	 (kshamisi)
+How much is this?  	 (idara bele eshtu?)
+Sorry	(kshamisi)
+Please	(dayavittu)
+Thank you 	(dhanyavada) (dhanyavadagalu)
+Reply to thank you	(yake summane ?hanksu?) (parwagilla bi?i)
+Where's the toilet / bathroom?	(saucalaya ellide?) (?ayle? ellide?)
+This gentleman will pay for everything	(ee mahaashaya ne ellaa paavati maadtaare ivattu)
+This lady will pay for everything	(ee maharaayti ne ellaa paavati maadtaare ivattu)
+Would you like to dance with me?	(neevu/neenu nanna jote dyaans maadteera/yaa?) athavaa nartisteera/yaa?)
+I love you	(naa ninna preetisteeni)
+Get well soon	(bega gunamukharaagi anta haaraisuttene)
+Leave me alone!	(nann' pa?ige nanag' bi??'bi?i!)
+Help! 	(nanna kapadi!) (kapadi!)
+Fire!	(benki!)
+Stop!	(nilli!) (nillisu!)
+Call the police! 	(polees?ge kare maadi!) (polees?ge tilisu!)
+Christmas greetings   	(kris mas habbada shubhaashayagalu)
+New Year greetings	(hosa varshada subhasaya)
+Easter greetings    	(istar habbada shubhaashayagalu)
+Birthday greetings	(huttu habbada subhasaya)
+Congratulations!	(Abhinandanega?u!)
+One language is never enough	(onde bhaashe saalalla athavaa saalodilla)
+Why this phrase?	(Nanna yantrikado?i havuminuga?inda tumbide)
+Hi:  	 [Namaskara]
+What is your name?   	[Nim'ma hesaru enu]
+Nice to meet you:	 [Nim'mannu nodi tumba santosha] 
+How are you? 	 [Nivu hege iddira]
+I'm good, thanks:   	[Nanu cennagi iddene, dhan'yavadhaga?u]
+And you?:   	[Tavu] 
+Do you speak (English/Kannada)   	[Nivu kanna?a/ i?gli? matana?utira]
+Does she speak Chinese?:  	 [Ava?u cainis matana?uva?e?] 
+A little bit:    	[Svalpa]
+How old are you?: 	 [Nimage e??u var?a] 
+I'm 33 years old:  	 [Nannage muvatamuru var?a]
+It was nice talking to you:  	  [Nim'ma jote matana?i kusi ayitu]
+What do you mean?:  	 [Enu nim'ma artha] 
+I don't understand: 	 [Nanage artha agalilla] 
+I don't know: 	 [Nanage gottilla]
+Sorry:  	 [Kshamisi]
+What is that called in Kannada?:  	 [Kannadadalli adakke enu kareyuttare] 
+What does that word mean in English?: 	  [Adakke i?gli?inalli enu annuttare] 
+Where are you from?:    	 [Nivu yava urinavaru]
+I'm from the U.S: 	 Nanu amerikadinda bandiddene]
+I'm American:   	 [Nanu amerikadavanu]
+Where do you live?:    	 [Nivu elli vasisuviri]
+I live in the U.S:  	  [Nanu amerikadalli vasisuttene]
+What do you do for a living?:   	[Nim'ma udyoga enu]
+I'm a student:   	[Nanu vidyarthi]
+Can I help you?	 [Nanu nimage sahaya ma?abahude] 
+Can you help me?	:[Nivu namage sahaya ma?uvira]
+Where is the airport?	 [Vimana nilda?a elli]
+Go straight:   	[Nerakke hogi] 
+Then	 [Amele]
+Turn left	 [Edakke tirugi] 
+Turn right	 [Balakke tirugi] 
+Happy birthday	 [Hu??u habbada subhasayaga?u]
+Happy new year	 [Hosa var?ada subhasayaga?u] 
+Merry Christmas:  	 [Krismasna subhasayaga?u]
+Good luck: 	 [Gu? lak]
+Congratulations:   	[Abhinandanegalu]
+I have a reservation:   	[Nanna hattira misalati ide] 
